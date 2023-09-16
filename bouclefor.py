@@ -8,4 +8,4 @@ for nbr in chiens:
 
 
 for nbr in range(0,10,2):
-    print(erg)
+    print(nbr)
